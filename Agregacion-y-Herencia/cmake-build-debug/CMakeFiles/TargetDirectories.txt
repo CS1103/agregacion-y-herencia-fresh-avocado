@@ -1,0 +1,3 @@
+/Users/gabrielspranger/Desktop/GitHub/Agregacion-y-Herencia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gabrielspranger/Desktop/GitHub/Agregacion-y-Herencia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gabrielspranger/Desktop/GitHub/Agregacion-y-Herencia/cmake-build-debug/CMakeFiles/Agregacion_y_Herencia.dir
